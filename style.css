@@ -1,0 +1,114 @@
+/* PrimaryColor: #094B72 ;
+$SecondaryColor: #C3E8F1;
+$Light Blue Color: #F2F7FF;
+$Body text color: #4f4f4f;
+$Dark Gray: #151617;
+$White Color: #FCFCFC;  */
+
+
+.body {     font-family: 'PlusJakartaSans' ;}
+
+    @font-face{ 
+        font-family:'PlusJakartaSans';
+        src: url(../fonts/PlusJakartaSans) format('truetype');
+
+        font-family: 'Playfair Display';
+        src: url(https://fonts.google.com/specimen/Playfair+Display?query=Playfair+Display);
+    }
+   
+.h1{
+    font-family: 'Playfair Display';
+
+}
+.btn1{    background-color:#094B72;
+
+
+}
+
+.btn {
+    color: #FCFCFC;
+}
+
+
+
+.relative { position: relative;
+
+    
+}
+
+.absolut{
+    position: absolute;
+    bottom:-15%;
+    right:5%;
+
+
+}
+
+
+.sec3{
+    background-color: #F2F7FF;
+    margin-top: 115px;
+    padding: 70px 100px 70px 100px;
+ }
+
+ .sec3 h1{ font-family: 'Playfair Display';}
+
+
+
+
+.list-unstyled nav {
+   color:#FCFCFC;
+}
+
+
+
+.footer-sec {
+    background-color:#094B72;
+    color:#FCFCFC; 
+  }
+
+
+
+
+.sec5{background-color:#F2F7FF;
+   }
+
+.sec5 h1{font-family: 'Playfair Display';
+
+}
+
+
+
+
+
+.sec4 h1{
+    color: #FCFCFC;
+    }
+    .sec4 p{
+        color:#FCFCFC ;
+    }
+
+
+
+
+.table-borderless{
+
+    background-color:#094B72;
+
+}
+   .card{
+    height: 200px;
+  } 
+  
+ .badge{ 
+    background-color:#F2F7FF; 
+    border-radius: 50px;
+    padding: 7px;
+    
+}
+.badgerounded-pill-2{background-color:#094B72;
+    border-radius: 50px;
+    padding: 5px;
+
+    color:#FCFCFC; 
+}
